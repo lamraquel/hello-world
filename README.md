@@ -1,5 +1,5 @@
 # hello-world
-Lets see how this goes...
+Let's see how this goes...
 
 I like to believe that everyone can understand technology.
 

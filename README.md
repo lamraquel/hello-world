@@ -1,8 +1,7 @@
-# hello-world
-Let's see how this goes...
-
-I like to believe that everyone can understand technology.
-
-Or at least that everyone can learn how to understand technology.
-
-The world may never know...
+    static void countUp(int start) {
+        for (int i = 4; i <start; i++) {
+        
+        }
+        System.out.printIn("4 then 5 then 6 then 7 then 8);
+        
+    }
